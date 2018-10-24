@@ -4,7 +4,7 @@ body {
 	width: 80%;
 	margin : 0 auto;
 	background :  url("../images/bowsette.png");
-	background-size: 64px, 64px;
+	background-size: 128px, 128px;
 }
 header
 {
@@ -20,8 +20,11 @@ footer
 }
 #bowsetteIMG
 {
+	margin: auto;
 	align-content: center;
 	display: flex;
+	text-align : center;
+	grid-area : c;
 width: 512px;
 height :128px;
 background : url("../images/bowsette.png");
