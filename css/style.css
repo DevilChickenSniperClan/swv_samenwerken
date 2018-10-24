@@ -1,0 +1,23 @@
+body {
+
+	font-family: arial;
+	width: 80%;
+	margin : 0 auto;
+	background : #333333;
+}
+header
+{
+	background :#0263ff;
+}
+main
+{
+	background :#FFFFFF;
+}
+footer
+{
+	background :#CCCCCC;
+}
+.rotate
+{
+	transform:rotate(85deg);
+}
